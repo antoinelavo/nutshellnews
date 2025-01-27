@@ -20,9 +20,9 @@
 
 ### Read More:
 
-[BBC](https://www.bbc.com/news/articles/cy48v1x4dv4o)
+[BBC - Musk responds to backlash over gesture at Trump rally](https://www.bbc.com/news/articles/cy48v1x4dv4o)
 
-[The Guardian](https://www.theguardian.com/technology/2025/jan/26/elon-musk-far-right-antisemitism)
+[The Guardian - Musk responds to backlash over gesture at Trump rally](https://www.theguardian.com/technology/2025/jan/26/elon-musk-far-right-antisemitism)
 
-[Business Insider](https://www.businessinsider.com/gates-its-insane-that-musk-can-destabilize-foreign-politics-2025-1?utm_source=chatgpt.com)
+[Business Insider - Bill Gates says he thinks it's 'insane' that Elon Musk is allowed to 'destabilize' politics in other countries](https://www.businessinsider.com/gates-its-insane-that-musk-can-destabilize-foreign-politics-2025-1?utm_source=chatgpt.com)
 <hr/>
