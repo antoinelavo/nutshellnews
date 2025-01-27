@@ -22,9 +22,9 @@ AP NEWS
 
 ### Read More:
 
-[CNN](https://edition.cnn.com/2025/01/19/tech/tiktok-ban/index.html)
+[CNN - TikTok is back online after Trump pledged to restore it](https://edition.cnn.com/2025/01/19/tech/tiktok-ban/index.html)
 
-[NPR](https://www.npr.org/2025/01/17/nx-s1-5258396/supreme-court-upholds-tiktok-ban)
+[NPR - Supreme Court upholds TikTok ban, threatening app's existence in the U.S.](https://www.npr.org/2025/01/17/nx-s1-5258396/supreme-court-upholds-tiktok-ban)
 
-[AP](https://apnews.com/article/tiktok-bytedance-trump-perplexity-87988733973760927bb5681f7de9b9af)
+[AP - New bid for TikTok from Perplexity AI could give US government 50% stake](https://apnews.com/article/tiktok-bytedance-trump-perplexity-87988733973760927bb5681f7de9b9af)
 <hr/>

@@ -20,9 +20,9 @@
 
 ### Read More:
 
-[Reuters](https://www.reuters.com/world/asia-pacific/south-koreas-prosecutors-indict-president-yoon-insurrection-yonhap-reports-2025-01-26/)
+[Reuters - South Korea President Yoon indicted for insurrection over martial law decree](https://www.reuters.com/world/asia-pacific/south-koreas-prosecutors-indict-president-yoon-insurrection-yonhap-reports-2025-01-26/)
 
-[CNN](https://edition.cnn.com/2025/01/26/asia/south-koreas-president-charged-insurrection-intl/index.html)
+[CNN - South Korea’s president charged with insurrection over declaration of martial law](https://edition.cnn.com/2025/01/26/asia/south-koreas-president-charged-insurrection-intl/index.html)
 
-[APNews](https://apnews.com/article/south-korea-yoon-martial-law-rebellion-indictment-0474602c89f04f003e012f333c5d5e0d)
+[APNews - What to expect after South Korean president’s indictment on rebellion charges](https://apnews.com/article/south-korea-yoon-martial-law-rebellion-indictment-0474602c89f04f003e012f333c5d5e0d)
 <hr/>
