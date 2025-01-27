@@ -1,6 +1,11 @@
 {
   "latestNews": [
     {
+      "title": "Deepseek.md",
+      "category": "Asia / Tech",
+      "pretext": "What's going on with"
+    },
+    {
       "title": "Elon Musk.md",
       "category": "USA / politics",
       "pretext": "recent endeavors of"
@@ -12,6 +17,11 @@
     }
   ],
   "quickFacts": [
+    {
+      "title": "Nvidia.md",
+      "category": "USA / Tech",
+      "pretext": "The rise of"
+    },
 
     {
       "title": "TikTok.md",
