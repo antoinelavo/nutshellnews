@@ -90,36 +90,9 @@ h6{
 }
 
 
-.newsblock{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    border-bottom: 1px solid var(--colorsecondary);
-    width: 300px;
-    height: auto;
-    margin: 0px;
-    padding: 30px 10px;
-}
-
-
 .typeHeader{
     margin-top: 30px;
     border-bottom: 1px solid var(--colorsecondary);
-}
-
-.newsblock h5, .newsblock h6, .newsblock h3{
-    margin: 0;
-    padding: 0;
-}
-
-.newsblock h5:hover{
-    color:var(--blue);
-    transition: color 0.3s ease;
-}
-
-.newsblock h3:hover{
-    color:var(--pink);
-    transition: color 0.3s ease;
 }
 
 
@@ -130,7 +103,7 @@ h6{
     margin: 0;
     padding: 0;
     height: 100%;
-    width: 300px;
+    width: 400px;
 }
 
 
