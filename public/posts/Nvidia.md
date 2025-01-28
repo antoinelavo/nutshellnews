@@ -1,28 +1,37 @@
-# USA / Tech
-## The rise of Nvidia
-### updated: Jan 27, 2025
-<hr/>
+# World / War  
+## Brief Overview of the Conflict in Israel and Palestine  
+### updated: Jan 28, 2025  
+<hr/>  
+<br/><br/><br/><br/>
+
+#### The War's Start
+The war started after Hamas attacked Israel in October 2023, escalating tensions over land and sovereignty.  
 <br/><br/>
 
-1. Nvidia started as a graphics card company, focusing on high-performance GPUs for gaming and professional markets.
-
-2. They pioneered GPU-accelerated computing, enabling faster processing for AI, data science, and simulations.
-
-3. Nvidia's dominance in gaming led to high-quality products and strong brand loyalty among consumers.
-
-4. Their GPUs power AI research, self-driving cars, and cloud computing, expanding into diverse industries.
-
-5. Nvidia's innovation, software ecosystem, and partnerships make them a leader in AI and graphics technology.
-
+#### Hezbollah's Involvement
+[Hezbollah](https://en.wikipedia.org/wiki/Hezbollah) in Lebanon (a [Shiite](https://en.wikipedia.org/wiki/Shia_Islam) political and militant group) joined the conflict, firing at Israel and complicating regional peace efforts.  
 <br/><br/>
 
-<hr/>
+#### Hezbollah's Support for Hamas
+Hezbollah supported Hamas, aiming to oppose Israel and strengthen ties with Palestinian fighters.  
+<br/><br/>
 
-### Read More:
+#### Global Calls for Ceasefire
+Many countries urge a ceasefire, with mixed support for Israel or criticism of civilian casualties in Gaza.  
+<br/><br/>
 
-[Wikipedia - Nvidia](https://en.wikipedia.org/wiki/Nvidia)
+#### Casualties
+Over 47,000 Palestinians and thousands of Israelis have died since the war began.  
+<br/><br/>
 
-[Supply Chain Today - How Nvidia Grew From Gaming To AI Giant, Now Powering ChatGPT](https://www.supplychaintoday.com/how-nvidia-grew-from-gaming-to-ai-giant-now-powering-chatgpt/)
+<hr/>  
+<br/><br/>
 
-[AP - How Nvidia became an AI giant](https://apnews.com/article/nvidia-artificial-intelligence-ai-gaming-1acc94ebbe6a59f728742ca20b3532cf)
+#### Read More:
+
+[Reuters - What is Hezbollah, the group backing Hamas against Israel?](https://www.reuters.com/world/middle-east/what-is-hezbollah-group-backing-hamas-against-israel-2023-10-30/)
+
+[AP - The Israel-Hamas war’s devastating toll, by the numbers](https://apnews.com/article/israel-palestinians-hamas-war-ceasefire-deaths-numbers-3e74e053814fd798fc1321c44f3e3c34)
+
+[Aljazeera - Israel-Palestine Conflict](https://www.aljazeera.com/tag/israel-palestine-conflict/)
 <hr/>

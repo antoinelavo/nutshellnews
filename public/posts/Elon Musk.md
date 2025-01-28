@@ -1,24 +1,33 @@
-# USA / POLITICS
-## Recent Endeavors of Elon Musk
-### updated: Jan 27, 2025
-<hr/>
+# USA / POLITICS  
+## Recent Endeavors of Elon Musk  
+### updated: Jan 27, 2025  
+<hr/>  
+<br/><br/><br/><br/>
+
+#### Controversial Gesture
+Elon Musk made a straight-armed gesture at Trump's inauguration, drawing comparisons to a Nazi salute.  
 <br/><br/>
 
-1. Controversial Gesture: Elon Musk made a straight-armed gesture at Trump's inauguration, drawing comparisons to a Nazi salute. 
-
-2. Public Backlash: Critics, including Jewish organizations, condemned the gesture, viewing it as promoting far-right ideologies.
-
-3. Musk's Response: Musk dismissed the criticism, labeling it as a "tired" attack.
-
-4. Political Involvement: Musk has shown support for far-right parties, including Germany's AfD, and holds a position in Trump's administration.
-
-5. Criticism from Peers: Figures like Bill Gates have expressed concern over Musk's political influence, calling it "insane."
-
+#### Public Backlash
+Critics, including Jewish organizations, condemned the gesture, viewing it as promoting far-right ideologies.  
 <br/><br/>
 
-<hr/>
+#### Musk's Response
+Musk dismissed the criticism, labeling it as a "tired" attack.  
+<br/><br/>
 
-### Read More:
+#### Political Involvement
+Musk has shown support for far-right parties, including Germany's AfD, and holds a position in Trump's administration.  
+<br/><br/>
+
+#### Criticism from Peers
+Figures like Bill Gates have expressed concern over Musk's political influence, calling it "insane."  
+<br/><br/>
+
+<hr/>  
+<br/><br/>
+
+#### Read More:
 
 [BBC - Musk responds to backlash over gesture at Trump rally](https://www.bbc.com/news/articles/cy48v1x4dv4o)
 

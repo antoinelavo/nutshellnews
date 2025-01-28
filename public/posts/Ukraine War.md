@@ -1,24 +1,33 @@
-# Europe / War
-## Background information on the Ukraine War
-### updated: Jan 27, 2025
-<hr/>
+# Europe / War  
+## Background Information on the Ukraine War  
+### updated: Jan 27, 2025  
+<hr/>  
+<br/><br/><br/><br/>
+
+#### Russia Invades Ukraine (2022)
+Russia attacked Ukraine from multiple directions, aiming to take major cities like Kyiv.  
 <br/><br/>
 
-1. Russia Invades Ukraine (2022): Russia attacked Ukraine from multiple directions, aiming to take major cities like Kyiv.
-
-2. Ukraine Fights Back (2022-2023): Ukraine pushed back, reclaiming areas like Kharkiv and Kherson but lost 20% of its territory.
-
-3. Ongoing Stalemate (2023-2024): Fighting continues with heavy losses; neither side has made major breakthroughs.
-
-4. Global Support for Ukraine: Western nations provided weapons, money, and aid, while talks of NATO membership gained attention.
-
-5. Humanitarian Crisis: Millions of Ukrainians fled their homes, creating Europe’s biggest refugee crisis since World War II.
-
+#### Ukraine Fights Back (2022-2023)
+Ukraine pushed back, reclaiming areas like Kharkiv and Kherson but lost 20% of its territory.  
 <br/><br/>
 
-<hr/>
+#### Ongoing Stalemate (2023-2024)
+Fighting continues with heavy losses; neither side has made major breakthroughs.  
+<br/><br/>
 
-### Read More:
+#### Global Support for Ukraine
+Western nations provided weapons, money, and aid, while talks of NATO membership gained attention.  
+<br/><br/>
+
+#### Humanitarian Crisis
+Millions of Ukrainians fled their homes, creating Europe’s biggest refugee crisis since World War II.  
+<br/><br/>
+
+<hr/>  
+<br/><br/>
+
+#### Read More:
 
 [Wikipedia - Russian Invasion of Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)
 
@@ -26,3 +35,4 @@
 
 [The Guardian - Russia-Ukraine war: Zelenskyy suggests foreign troops could be deployed to Ukraine before Nato membership agreed – as it happened](https://www.theguardian.com/world/live/2024/dec/09/russia-ukraine-war-live-donald-trump-ceasefire-call-volodymyr-zelenskyy)
 <hr/>
+

@@ -2,6 +2,9 @@
     --colorprimary: #292a2d;
     --colorsecondary: #ffffff;
     --colorbackground: #1e1f21;
+    --primarytext: lightgray;
+    --secondarytext: rgb(169, 169, 169);
+    --tertiarytext: rgb(88, 88, 88);
     --blue: #3d9be9;
     --pink: #ff6a7a;
     margin: 0;
@@ -32,7 +35,7 @@ h1{
     font-family: Helvetica, sans-serif;
     font-weight: normal;
     font-size: 15px;
-    color: var(--colorsecondary);
+    color: var(--primarytext);
 }
 
 h4{
@@ -92,7 +95,7 @@ h6{
 
 .typeHeader{
     margin-top: 30px;
-    border-bottom: 1px solid var(--colorsecondary);
+    border-bottom: 1px solid var(--tertiarytext);
 }
 
 
@@ -122,7 +125,7 @@ h6{
     padding-right: 10px;
     padding-top: 0px;
     margin: 0px;
-    border-bottom: 1px solid var(--colorsecondary);
+    border-bottom: 1px solid var(--tertiarytext);
 }
 
 #latest-news-list a:hover {
@@ -160,7 +163,7 @@ h6{
 }
 
 #quick-facts-list .post-pretext, #latest-news-list .post-pretext{
-    color: var(--colorsecondary);
+    color: var(--primarytext);
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 2px;
@@ -185,11 +188,43 @@ h6{
     line-height: 1.5;
     margin-bottom: 1.5lh;
     text-indent: 0px;
+    color: var(--primarytext);
+}
+
+#post-content h1{
+    font-size: medium;
+    font-weight: 100;
+    color: var(--tertiarytext);
+}
+
+#post-content h2{
+    line-height: 1.5;
+    font-size: xx-large;
+    font-weight: 900;
+    color: var(--colorsecondary);
+}
+
+#post-content h3{
+    line-height: 1.5;
+    font-size: medium;
+    font-weight: 100;
+    color: var(--tertiarytext);
+}
+
+#post-content h4{
+    font-size: medium;
+    color: var(--colorsecondary);
+    font-weight: bold;
+    line-height: 0%;
 }
 
 #post-content a{
-    color: var(--blue);
     text-decoration: underline;
+    text-underline-offset: 0.2lh;
+}
+
+#post-content hr{
+    border-color: var(--primarytext);
 }
 
 footer{

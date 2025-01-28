@@ -1,25 +1,33 @@
-# Asia / Tech
-## What's going on with Deepseek?
-### updated: Jan 27, 2025
-<hr/>
+# Asia / Tech  
+## What's going on with Deepseek?  
+### updated: Jan 27, 2025  
+<hr/>  
+<br/><br/><br/><br/>
+
+#### Launch of Advanced AI Models
+[DeepSeek](https://www.deepseek.com/), a Chinese AI startup, introduced its R1 and V3 AI models, claiming performance comparable to leading Western models.  
 <br/><br/>
 
-DeepSeek, a Chinese AI startup, has recently made significant strides in the artificial intelligence sector, impacting global markets and technology companies. 
-
-1. Launch of Advanced AI Models: DeepSeek introduced its R1 and V3 AI models, claiming performance comparable to leading Western models. 
-
-2. Cost-Effective AI Solutions: The company developed AI models that operate on less sophisticated and cheaper chips, challenging the high-cost AI models of U.S. companies. 
-
-3. Market Disruption: DeepSeek's advancements have led to significant declines in major technology stocks, including Nvidia, Oracle, and Palantir, as investors reassess the sustainability of high investment levels by Western companies in AI. 
-
-4. Rapid Adoption: DeepSeek's chatbot app quickly became the top downloaded program on Apple's U.S. App Store, surpassing ChatGPT in popularity. 
-
-5. Global Market Impact: The company's progress has raised concerns about the future of U.S. tech dominance, leading to a trillion-dollar drop in the share prices of the world's biggest tech companies. 
+#### Cost-Effective AI Solutions
+The company developed AI models that operate on less sophisticated and cheaper chips, challenging the high-cost AI models of U.S. companies.  
 <br/><br/>
 
-<hr/>
+#### Market Disruption
+DeepSeek's advancements have led to significant declines in major technology stocks, including [Nvidia](https://www.nvidia.com/), [Oracle](https://www.oracle.com/), and [Palantir](https://www.palantir.com/), as investors reassess the sustainability of high investment levels by Western companies in AI.  
+<br/><br/>
 
-### Read More:
+#### Rapid Adoption
+DeepSeek's chatbot app quickly became the top downloaded program on Apple's U.S. App Store, surpassing ChatGPT in popularity.  
+<br/><br/>
+
+#### Global Market Impact
+The company's progress has raised concerns about the future of U.S. tech dominance, leading to a trillion-dollar drop in the share prices of the world's biggest tech companies.  
+<br/><br/>
+
+<hr/>  
+<br/><br/>
+
+#### Read More:
 
 [WSJ - Chip Stocks Tumble After China’s DeepSeek AI Models Raise Doubts Over U.S. Tech Dominance](https://www.wsj.com/tech/chip-stocks-tumble-after-chinas-deepseek-ai-models-raise-doubts-over-u-s-tech-dominance-9799591b)
 

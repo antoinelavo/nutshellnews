@@ -1,24 +1,33 @@
-# ASIA / POLITICS
-## What's up with the *South Korean President*?
-### updated: Jan 27, 2025
-<hr/>
+# Asia / Politics  
+## What's up with the South Korean President?  
+### updated: Jan 27, 2025  
+<hr/>  
+<br/><br/><br/><br/>
+
+#### Indictment for Rebellion
+[Yoon](https://en.wikipedia.org/wiki/Yoon_Suk-yeol) was charged with rebellion after declaring [martial law](https://en.wikipedia.org/wiki/Martial_law) in December 2024, which lasted only six hours before being canceled.  
 <br/><br/>
 
-1. Indictment for Rebellion: Yoon was charged with rebellion after declaring martial law in December 2024, which lasted only six hours before being canceled.
-
-2. Martial Law: Yoon declared martial law to control politics and media, but it was quickly revoked by the National Assembly after six hours.
-
-3. Impeachment Process: The National Assembly impeached Yoon in December 2024, and the Constitutional Court will decide on his impeachment in six months.
-
-4. Arrest and Legal Trouble: Yoon was arrested in January 2025 and is in detention, facing serious charges of rebellion.
-
-5. Public Division: Yoon’s crisis has caused public protests both supporting and opposing him, raising concerns about South Korea’s democracy.
-
+#### Martial Law
+Yoon declared martial law to control politics and media, but it was quickly revoked by the [National Assembly](https://en.wikipedia.org/wiki/National_Assembly_of_South_Korea) after six hours.  
 <br/><br/>
 
-<hr/>
+#### Impeachment Process
+The National Assembly impeached Yoon in December 2024, and the Constitutional Court will decide on his impeachment in six months.  
+<br/><br/>
 
-### Read More:
+#### Arrest and Legal Trouble
+Yoon was arrested in January 2025 and is in detention, facing serious charges of rebellion.  
+<br/><br/>
+
+#### Public Division
+Yoon’s crisis has caused public protests both supporting and opposing him, raising concerns about South Korea’s democracy.  
+<br/><br/>
+
+<hr/>  
+<br/><br/>
+
+#### Read More:
 
 [Reuters - South Korea President Yoon indicted for insurrection over martial law decree](https://www.reuters.com/world/asia-pacific/south-koreas-prosecutors-indict-president-yoon-insurrection-yonhap-reports-2025-01-26/)
 
